@@ -2,6 +2,18 @@
 
 This repository demonstrates how to set up and build an OpenCV project using C++. The example implements feature detection and homography to identify objects in images.
 
+**Input images:**
+* box.png: 
+
+![screenshot](box.png)
+* box_in_scene.png: 
+
+![screenshot](box_in_scene.png) 
+
+**Output image:**
+* output.png: 
+![screenshot](output.png)
+
 ## Prerequisites
 
 - OpenCV
